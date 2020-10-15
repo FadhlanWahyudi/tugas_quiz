@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 import 'package:tugas_quiz/question_logic.dart';
 
+//buat hacktober fest
+
 void main() => runApp(QuizApp());
 QuestionLogic questionLogic = QuestionLogic();
 
